@@ -1,3 +1,4 @@
+
 # Directories #
 
 /build/
@@ -140,3 +141,6 @@ local.properties
 
 .buildpath
 /.recommenders/
+
+/.metadata/
+
